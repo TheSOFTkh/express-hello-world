@@ -54,7 +54,8 @@ const html = `
   </head>
   <body>
     <section>
-      Hello from Render!
+     Welcome, Hello from Render!
+I have release new version for web service!
     </section>
   </body>
 </html>
